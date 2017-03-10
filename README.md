@@ -1,5 +1,5 @@
-# bundestag-deputie-profiles
-script to get all bundestag-deputie-profiles
+# bundestag-deputy-profiles
+script to get all bundestag-deputy-profiles
 
 Very hacky script. Please send patches ☺
 
